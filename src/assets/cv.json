@@ -1,0 +1,154 @@
+{
+    "basics": {
+      "name": "Jose Cayllahua Gutierrez",
+      "label": "Software Engineer Student, experience in web development, DevOps, and microservices",
+      "image": "https://avatars.githubusercontent.com/u/89022268?v=4",
+      "email": "jcayllahua.2003@gmail.com",
+      "phone": "+51 9244832206",
+      "url": "https://www.jcayllahua.dev/",
+      "summary": "I'm a software engineer student with experience in web development, mobile development, and DevOps. My passion for technology drives me to tackle new challenges and explore innovative solutions. I am committed to continuous learning and eager to apply my skills in real-world scenarios.",
+      "location": {
+        "address": "Calle 16, E. Montenegro",
+        "postalCode": "15449",
+        "city": "Lima",
+        "countryCode": "PE",
+        "region": "Perú"
+      },
+      "profiles": [{
+        "network": "LinkedIn",
+        "username": "jcayllahua",
+        "url": "https://www.linkedin.com/in/jcayllahua/"
+      },
+      {
+        "network": "GitHub",
+        "username": "JCayllahuaG",
+        "url": "https://github.com/JCayllahuaG"
+      }
+    ]
+    },
+    "work": [
+      {
+        "name": "Software Enterprise Services",
+        "position": "Full Stack Developer",
+        "url": "https://sesitdigital.com/",
+        "startDate": "2024-01-15",
+        "endDate": null,
+        "summary": "Angular and .Net developer, problem solving, issues resolution, testing, database management, store procedures creation, web services creation, and more.",
+        "highlights": [
+          "Implemented REST API using Java and Spring Boot for consumption by mobile and web applications.",
+          "Created unit tests using Junit/Mockito to validate functions, repositories, requests.",
+          "Developed microservices implementing Eureka Server, Config Server, Docker, and PostgreSQL as the database.",
+          "Development flow using GitHub Flow, Scrum as an agile framework, and Jenkins for CI/CD configuration.",
+          "Created and modified Store Procedures, designed SQL databases."
+        ]
+      },
+      {
+        "name": "Project Collaborator Non-profit",
+        "position": "Backend Developer Intern", 
+        "url": "",
+        "startDate": "2023-06-01",
+        "endDate": "2023-12-01",
+        "summary": "Backend Developer specializing in Java and Spring Boot, scalable REST APIs, and microservices with Azure SQL Server and PostgreSQL. Expertise in Junit, Mockito, MVC, TDD, CI/CD, and automated testing.",
+        "highlights": [
+          "Led the development of backend for e-commerce applications using Java and Spring Boot framework to maximize system efficiency and scalability, databases like Azure SQL Server and Azure Database for PostgreSQL were used.",
+          "Designed and implemented scalable REST APIs and microservices using Java 11, Junit, Mockito, and other cloud technologies.",
+          "Collaborated in elaborating and proposing service architectures, employing software design patterns like MVC, TDD, and microservices.",
+          "Implemented Continuous Integration/Deployment, Pipeline Integration, pull requests, code reviews, automated testing, unit/integration testing."
+        ]
+      },
+      {
+        "name": "Freelancer",
+        "position": "Full Stack Developer", 
+        "url": "",
+        "startDate": "2023-06-01",
+        "endDate": "2023-12-01",
+        "summary": "Specializing in REST APIs with Java and Spring Boot, Vue.js web apps, Angular microservices, SonarQube testing, CI/CD with Azure DevOps, and security/performance testing.",
+        "highlights": [
+          "Implemented REST API using Java, Spring Boot, and deployed it on AWS.",
+          "Developed a web application using Vue.js as the frontend implementation framework.",
+          "Designed and developed microservices for an Angular application, conducting automated tests with SonarQube.",
+          "Continuous automated development and continuous implementation using Azure DevOps for organization and Sprint pipelines.",
+          "Software experiments were conducted to verify security, response time, and positioning of web applications."
+        ]
+      }
+  
+  
+  
+  ],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [
+      {
+      "institution": "Universidad Peruana de Ciencias Aplicadas",
+      "url": "https://www.upc.edu.pe/",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2020-03-01",
+      "endDate": "2025-12-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "I.E.P Fe y Alegria 37",
+      "url": "https://www.upc.edu.pe/",
+      "area": "Secondary Education",
+      "studyType": "High School",
+      "startDate": "2014-03-01",
+      "endDate": "2019-12-01",
+      "score": "4.0"
+    }
+
+  ],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native"
+    }
+  ],
+    "interests": [{
+      "name": "DevOps",
+      "keywords": [
+        "Continuous Integration",
+        "Continuous Deployment"
+      ]
+    }],
+    "projects": [{
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }]
+  }
