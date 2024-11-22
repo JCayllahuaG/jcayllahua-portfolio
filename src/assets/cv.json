@@ -8,7 +8,7 @@
       "url": "https://www.jcayllahua.dev/",
       "summary": "I'm a software engineer student with experience in web development, mobile development, and DevOps. My passion for technology drives me to tackle new challenges and explore innovative solutions. I am committed to continuous learning and eager to apply my skills in real-world scenarios.",
       "location": {
-        "address": "Calle 16, E. Montenegro",
+        "address": "Calle 16",
         "postalCode": "15449",
         "city": "Lima",
         "countryCode": "PE",
@@ -98,17 +98,7 @@
       "courses": [
         "DB1101 - Basic SQL"
       ]
-    },
-    {
-      "institution": "I.E.P Fe y Alegria 37",
-      "url": "https://www.upc.edu.pe/",
-      "area": "Secondary Education",
-      "studyType": "High School",
-      "startDate": "2014-03-01",
-      "endDate": "2019-12-01",
-      "score": "4.0"
     }
-
   ],
     "certificates": [{
       "name": "Certificate",
